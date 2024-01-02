@@ -6,9 +6,9 @@ import { lusitana } from '@/app/ui/fonts';
 import { Suspense } from 'react';
 import { LatestInvoicesSkeleton, RevenueChartSkeleton, CardsSkeleton } from '@/app/ui/skeletons';
 
-export const metadata: Metadata = {
-  title: 'Dashboard',
-};
+// export const metadata: Metadata = {
+//   title: 'Dashboard',
+// };
  
 export default async function Page() {
 
